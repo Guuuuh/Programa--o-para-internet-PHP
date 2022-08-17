@@ -1,5 +1,5 @@
 <?php
     session_start();
 
-    echo $_SESSION['disciplina'];x
+    echo $_SESSION['disciplina'];
 ?>
